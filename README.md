@@ -6,7 +6,7 @@
 - 🔭 I like looking up to the stars.
 - 🌱 Living to the fullest by learning all this world got to offer.
 - 🥅 2021 Goals: Engaging with and contributing in Open Source projects.
-- ⚡ Fun fact: oh, i am bad in making jokes.
+- ⚡ Fun fact: oh, i can yodel.
 
 ### Tune with me:
 
