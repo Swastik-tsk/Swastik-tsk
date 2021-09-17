@@ -44,6 +44,8 @@
 
 </details>
  -->
+ [![Swastik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swastik-tsk&show_icons=true&theme=radical)](https://github.com/Swastik-tsk/github-readme-stats)
+
 
 
 [twitter]: https://twitter.com/swastik_tsk
