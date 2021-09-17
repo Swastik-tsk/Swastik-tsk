@@ -1,12 +1,11 @@
 ### Hi there, I'm Swastik Samal - aka [Swastik-tsk] 👋
 
-[![Twitter Follow](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fswastik_tsk&screen_name=swastik_tsk)
 
 ## I'm an Electronics and Instrumentation Engineering Under-Grad, Developer, Musician, and Actor!!
 
 - 🔭 I like looking up to the stars.
 - 🌱 Living to the fullest by learning all this world got to offer.
-- 🥅 2021 Goals: Engaging myself with Open Source projects
+- 🥅 2021 Goals: Engaging with and contributing in Open Source projects.
 - ⚡ Fun fact: oh, i am bad in making jokes.
 
 ### Tune with me:
