@@ -1,6 +1,6 @@
 ### Hi there, I'm Swastik Samal - aka [Swastik-tsk] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fswastik_tsk&screen_name=swastik_tsk)
+[![Twitter Follow](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fswastik_tsk&screen_name=swastik_tsk)
 
 ## I'm an Electronics and Instrumentation Engineering Under-Grad, Developer, Musician, and Actor!!
 
@@ -17,7 +17,7 @@
 
 <br />
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
@@ -36,15 +36,15 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
-<br />
+<br /> -->
 
-<details>
+<!-- <details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Swastik-tsk's GitHub Stats" src="https://github-readme-stats.Swastik-tsk.vercel.app/api?username=Swastik-tsk&show_icons=true&hide_border=true" />
 
 </details>
-
+ -->
 
 
 [twitter]: https://twitter.com/swastik-tsk
