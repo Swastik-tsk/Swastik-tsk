@@ -1,7 +1,7 @@
 ### Hi there, I'm Swastik Samal - aka [Swastik-tsk] 👋
 
 
-## I'm an Electronics and Instrumentation Engineering Under-Grad, Developer, Musician, and Actor!!
+## I'm an Engineering Under-Grad, Developer, Musician, and Actor!!
 
 - 🔭 I like looking up to the stars.
 - 🌱 Living to the fullest by learning all this world got to offer.
